@@ -1,5 +1,4 @@
-<h2> Oi gente, eu sou a <strong> Bianca Guimarães</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="![icon github](https://github.com/user-attachments/assets/b2133db9-da7f-4c6c-8660-5d9f93403229)
-"></h2>
+<h2> Oi gente, eu sou a <strong> Bianca Guimarães</strong>. <img src="![icon github](https://github.com/user-attachments/assets/65da77b3-1da3-4168-b739-7da127ca157e)"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
