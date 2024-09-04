@@ -2,7 +2,7 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :books: &nbsp; <strong>Trabalhar com back-end</strong>
+- :books: &nbsp; <strong> Estudante de ADS e futuramente trabalhar com back-end</strong>
 - 🎓 &nbsp; <strong>Faculdade Senac Pernambuco</strong>
 - :computer: &nbsp; <strong> ADS-Análise e desenvolvimento de sistemas</strong>
 
