@@ -1,16 +1,16 @@
-<h2> Oi gente, eu sou a <strong> Bianca Guimarães</strong>. <img src="![icon github](https://github.com/user-attachments/assets/65da77b3-1da3-4168-b739-7da127ca157e)"></h2>
+<h2> Hello World!, Me chamo <strong> Bianca Guimarães</strong>. <img src="![icon github](https://github.com/user-attachments/assets/65da77b3-1da3-4168-b739-7da127ca157e)"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :books: &nbsp; <strong> Estudante de ADS e futuramente trabalhar com back-end</strong>
+- :books: &nbsp; <strong> Analista e developer em formação</strong>
 - 🎓 &nbsp; <strong>Faculdade Senac Pernambuco</strong>
 - :computer: &nbsp; <strong> ADS-Análise e desenvolvimento de sistemas</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
 - 💻 &nbsp; <strong>Atualmente estudo HTML/CSS, JAVASCRIPT, SQL,REACT/</strong>
-- 🌐 &nbsp; <strong>Suas áreas de atuação (Android, Desktop, Web)</strong>
-- 🛢 &nbsp; <strong>Seus bancos de dados</strong>
+- 🌐 &nbsp; <strong>Atuo com Web & Desktop)</strong>
+- 🛢 &nbsp; <strong>Seus bancos de dado</strong>
 - 🔧 &nbsp; <strong>Suas IDES</strong>
 
 
