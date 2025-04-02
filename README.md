@@ -1,4 +1,4 @@
-<h2> Hello World!, Me chamo <strong> Bianca Guimarães</strong>. <img src="![icon github](https://github.com/user-attachments/assets/65da77b3-1da3-4168-b739-7da127ca157e)"></h2>
+<h2> Hello World! Me chamo <strong> Bianca Guimarães</strong>. <img src="![icon github](https://github.com/user-attachments/assets/65da77b3-1da3-4168-b739-7da127ca157e)"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
