@@ -8,7 +8,7 @@
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; <strong>Atualmente estudo HTML/CSS, JAVASCRIPT, SQL,REACT/</strong>
+- 💻 &nbsp; <strong>Atualmente estudo HTML/CSS, JAVASCRIPT, SQL</strong>
 - 🌐 &nbsp; <strong>Atuo com Web & Desktop</strong>
 
 
