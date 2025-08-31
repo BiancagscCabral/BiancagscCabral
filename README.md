@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá! 👋 Eu sou a <strong>Bianca Guimarães</strong>. Tenho 25 anos e sou estudante do 3º período de Análise e Desenvolvimento de Sistemas. Estou em busca da minha primeira oportunidade no mundo da tecnologia para aplicar meus conhecimentos e crescer profissionalmente!
+Olá! 👋 Eu sou a <strong>Bianca Guimarães</strong>. Tenho 25 anos e sou estudante do 3º período de Análise e Desenvolvimento de Sistemas. Estou em busca da minha primeira oportunidade no mundo da tecnologia para aplicar meus conhecimentos e crescer profissionalmente!
 </p>
 
 <p align="left">
