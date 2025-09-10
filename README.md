@@ -15,7 +15,7 @@ Olá! 👋 Eu sou a <strong>Bianca Guimarães</strong>. Tenho 25 anos e sou estu
   💼 Ferramentas:
 </p>
 <p align="left">
-  <code>VS Code</code> <code>Git</code> <code>Figma</code> <code>Trello</code> <code>Miro</code> <code>Google Colab</code>
+  <code>VS Code</code> <code>Git</code> <code>Deno</code> <code>Figma</code> <code>Trello</code> <code>Miro</code> <code>Google Colab</code>
 </p>
 
 <p align="left">
