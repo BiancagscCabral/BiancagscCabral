@@ -8,7 +8,7 @@ Olá! 👋 Eu sou a <strong>Bianca Guimarães</strong>. Tenho 25 anos e sou estu
   🦄 Linguagens:
 </p>
 <p align="left">
-  <code>HTML</code> <code>CSS</code> <code>JavaScript</code><code>MySQL</code>
+ <code>SQL SERVER</code> <code>Python</code> <code>Power BI</code>
 </p>
 
 <p align="left">
