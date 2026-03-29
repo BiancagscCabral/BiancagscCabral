@@ -8,14 +8,14 @@ Olá! 👋 Eu sou a <strong>Bianca Guimarães</strong>. Tenho 25 anos e sou estu
   🦄 Linguagens:
 </p>
 <p align="left">
- <code>SQL SERVER</code> <code>Python</code> <code>Power BI</code>
+ <code>SQL SERVER</code> <code>Python</code>
 </p>
 
 <p align="left">
   💼 Ferramentas:
 </p>
 <p align="left">
-  <code>VS Code</code> <code>Git</code> <code>Deno</code> <code>Node</code> <code>Figma</code> <code>Trello</code> <code>Miro</code> 
+  <code>VS Code</code> <code>Git</code> <code>Node</code> <code>Power BI</code> <code>Figma</code> <code>Trello</code> <code>Miro</code> 
 </p>
 
 <p align="left">
